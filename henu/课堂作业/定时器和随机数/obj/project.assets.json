@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\develop\\C#\\中澳计科\\课堂作业\\定时器和随机数\\定时器和随机数.csproj",
+      "projectUniqueName": "D:\\develop\\C#\\henu\\课堂作业\\定时器和随机数\\定时器和随机数.csproj",
       "projectName": "定时器和随机数",
-      "projectPath": "D:\\develop\\C#\\中澳计科\\课堂作业\\定时器和随机数\\定时器和随机数.csproj",
+      "projectPath": "D:\\develop\\C#\\henu\\课堂作业\\定时器和随机数\\定时器和随机数.csproj",
       "packagesPath": "C:\\Users\\85481\\.nuget\\packages\\",
-      "outputPath": "D:\\develop\\C#\\中澳计科\\课堂作业\\定时器和随机数\\obj\\",
+      "outputPath": "D:\\develop\\C#\\henu\\课堂作业\\定时器和随机数\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\85481\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
